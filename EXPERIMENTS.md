@@ -38,11 +38,11 @@ Gunakan template di bawah untuk SETIAP eksperimen.
 > Contoh: Adam adalah optimizer adaptif, kami menduga konvergensi akan lebih cepat dan akurasi naik.
 
 **Hasil:**
-- Test accuracy: ___%
-- Train accuracy: ___%
-- Validation accuracy: ___%
-- Train time: ___ detik
-- Apakah overfit/underfit? ___
+- Test accuracy: __ 85.19%_%
+- Train accuracy:  86.69%___%
+- Validation accuracy: _ 86.08%__%
+- Train time: 53.4___ detik
+- Apakah overfit/underfit? __tidak overvit atau undervit_
 
 **Observasi & Insight:**
 >
